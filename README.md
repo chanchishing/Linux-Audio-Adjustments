@@ -1,8 +1,20 @@
 # ReadMe for myself
-Google to this post https://dietpi.com/forum/t/tutorial-improve-audio-sound/2851/14, want to have a try.  I actually don't now if there will be SQ improvement or not.
+Google to this post https://dietpi.com/forum/t/tutorial-improve-audio-sound/2851/14, want to have a try with my DietPi on RaspberryPi 4B.
+I actually don't if it will work nor there will be SQ improvement or not.
 Fork from https://github.com/tml3nr/Linux-Audio-Adjustments and then modify to suit my needs.  
 
-Below ReadMe are from the original fork source.  
+## Automated Install become
+- wget https://github.com/chanchishing/Linux-Audio-Adjustments/basic-install.sh
+- chmod 755 basic-install.sh
+- sudo ./basic-install.sh
+
+## Automated Removal become
+ - wget https://github.com/chanchishing/Linux-Audio-Adjustments/remove.sh
+ - chmod 755 remove.sh
+ - sudo ./remove.sh
+
+
+===========Below ReadMe are from the original fork source================.  
 
 # Linux-Audio
 Debian Based RPi tweaks for improved sound. For TinyCore Linux based systems see [TinyCore Sound Tweaks](https://github.com/dynobot/TinyCore-Sound-Adjustments)
