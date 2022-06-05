@@ -10,7 +10,7 @@ border()
 
 border 'Downloading Sound File'
 
-wget https://github.com/chanchishing/Linux-Audio-Adjustments/Sound.sh -O /usr/bin/Sound.sh
+wget https://github.com/chanchishing/Linux-Audio-Adjustments/blob/master/Sound.sh -O /usr/bin/Sound.sh
 chmod 755 /usr/bin/Sound.sh
 
 border 'Increasing Sound Group Priority'
