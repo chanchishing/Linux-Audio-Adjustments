@@ -4,12 +4,12 @@ I actually don't if it will work nor there will be SQ improvement or not.
 Fork from https://github.com/tml3nr/Linux-Audio-Adjustments and then modify to suit my needs.  
 
 ## Automated Install become
-- wget https://github.com/chanchishing/Linux-Audio-Adjustments/basic-install.sh
+- wget https://github.com/chanchishing/Linux-Audio-Adjustments/blob/master/basic-install.sh
 - chmod 755 basic-install.sh
 - sudo ./basic-install.sh
 
 ## Automated Removal become
- - wget https://github.com/chanchishing/Linux-Audio-Adjustments/remove.sh
+ - wget https://github.com/chanchishing/Linux-Audio-Adjustments/blob/master/remove.sh
  - chmod 755 remove.sh
  - sudo ./remove.sh
 
